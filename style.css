@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(88, 87, 87);
+}
+
+.bandeira{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    height: 60vh;
+    width: 55%;
+    left: 10%;
+    top: 5vh;
+}
+
+.vermelha1{
+    position: relative;
+    background-color: rgba(207, 44, 44, 0.911);
+    height: 20vh;
+    width: 24%;
+}
+
+.vermelha2{
+    position: relative;
+    background-color: rgba(207, 44, 44, 0.911);
+    height: 20vh;
+    width: 55%;
+    left: 45%;
+    bottom: 20vh;
+}
+
+.azul1{
+    position: relative;
+    width: 13%;
+    height: 100%;
+    background-color: rgb(12, 12, 128);
+    bottom: 40vh;
+    left: 28%;
+}
+
+.azul2{
+    position: relative;
+    background-color: rgb(12, 12, 128);
+    height: 13vh;
+    width: 100%;
+    bottom: 76.5vh;
+}
+
+.vermelha3{
+    position: relative;
+    background-color: rgba(207, 44, 44, 0.911);
+    height: 20vh;
+    width: 24%;
+    bottom: 73vh;
+}
+
+.vermelha4{
+    position: relative;
+    background-color: rgba(207, 44, 44, 0.911);
+    height: 20vh;
+    width: 55%;
+    left: 45%;
+    bottom: 93vh;
+}
